@@ -15,7 +15,7 @@
 
 ## [Etapa 2: Tratando as variáveis de texto](https://github.com/MateusMaccos/TitanicSurvived/blob/main/An%C3%A1lise_do_Titanic_-_Parte_2_-_Arquivo_Inicial.ipynb)
 - Na segunda etapa o foco principal foi tratar as variáveis de texto para conseguirmos utilizar todas as variáveis no nosso modelo
-  - Se quiser **saber mais sobre tratamento de variáveis de texto**, você pode **conferir [esse artigo que eu escrevi no Medium](https://medium.com/@llucaslleall/tratando-vari%C3%A1veis-categ%C3%B3ricas-em-projetos-de-ci%C3%AAncia-de-dados-834dcc5bb636)**
+  - Se quiser **saber mais sobre tratamento de variáveis de texto**, você pode **conferir [esse artigo do Medium do professor da HashTagProgramação](https://medium.com/@llucaslleall/tratando-vari%C3%A1veis-categ%C3%B3ricas-em-projetos-de-ci%C3%AAncia-de-dados-834dcc5bb636)**
   - Para fazer esse tratamento, utilizamos **lambda function e OneHotEncoder**
 - Utilizamos os mesmos modelos vistos anteriormente
 - O **score público retornado pelo Kaggle foi: 0,76555**
